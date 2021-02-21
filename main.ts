@@ -1,4 +1,4 @@
-basic.showString("-")
+basic.showString("...")
 bluetooth.setTransmitPower(9)
 bluetooth.startAccelerometerService()
 bluetooth.startButtonService()
